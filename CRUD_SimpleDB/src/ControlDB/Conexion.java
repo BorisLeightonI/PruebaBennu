@@ -3,7 +3,7 @@ package ControlDB;
 import java.sql.*;
 
 public class Conexion {
-	String db = "baloncesto";
+	String db = "simpleCrud";
 	String url = "jdbc:mysql://localhost/"+ db;
 	String usr = "root";
 	String pass = "";
